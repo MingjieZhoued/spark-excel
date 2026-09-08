@@ -1,0 +1,4 @@
+[config]
+model = "gpt-5.4-mini"
+[openai]
+api_base = "https://api.zhizengzeng.com/v1"
