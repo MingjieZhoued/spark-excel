@@ -1,2 +1,2 @@
-variable_name = 'clean'
-hidden​backdoor = 'invisible ZWSP in identifier'
+variable_name = 'CLEANED'
+hidden​backdoor = 'APPLIED via suggestion button'
